@@ -1,0 +1,8 @@
+{
+    "name": "learnhub",
+    "version": "1.0.0",
+    "description": "Student Learning Portal hosted on Azure",
+    "scripts": {
+        "start": "node server.js"
+    }
+}
